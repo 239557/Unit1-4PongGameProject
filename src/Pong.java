@@ -20,7 +20,4 @@ public class Pong extends JFrame {
     public PongPanel getPanel() {
         return panel;
     }
-    public static void main(String[] args) {
-        new Pong();
-    }
 }
